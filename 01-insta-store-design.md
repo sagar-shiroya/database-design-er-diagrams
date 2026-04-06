@@ -50,5 +50,6 @@ You do **not** need to build frontend or backend.
 This task is only about database design.
 
 ## Diagram
-<img width="5646" height="3953" alt="image" src="https://github.com/user-attachments/assets/b9092e71-8cc1-46f3-8c56-0392f44b7787" />
+<img width="5646" height="3953" alt="image" src="https://github.com/user-attachments/assets/f17433a5-c063-42c5-9651-22c0db5b4557" />
+
 
