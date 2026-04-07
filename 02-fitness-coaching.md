@@ -1,8 +1,10 @@
 # Fitness Coaching DB Design
 
 ## Details
-<img width="5523" height="3403" alt="image" src="https://github.com/user-attachments/assets/4878ce8b-6b73-4d3f-8cdd-4cf6af3dfd64" />
+<img width="5523" height="3403" alt="image" src="https://github.com/user-attachments/assets/9a7fbfae-0766-4ba0-b3a9-85b14c3bdcf6" />
+
 
 
 ## ER Diagram
-<img width="4911" height="4061" alt="image" src="https://github.com/user-attachments/assets/aea93b32-6bd6-495b-a0ac-f9be20089a6e" />
+<img width="4911" height="4123" alt="image" src="https://github.com/user-attachments/assets/c247dcca-2ff5-4584-be1e-db344e2e359a" />
+
